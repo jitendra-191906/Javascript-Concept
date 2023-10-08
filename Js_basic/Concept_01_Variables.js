@@ -16,3 +16,9 @@ console.log(accountId);
 //new one-> we see the all variable value in one console then we use" console.table([accountId,accountEmail,accountPassward,accountCity,accountState])""
 console.table([accountId,accountEmail,accountPassward,accountCity,accountState])
 //show result in tabular formate
+
+
+/*NOTE-1
+difference between var and let keywoard
+var is not use because the issue in block scope and functional scope
+*/
