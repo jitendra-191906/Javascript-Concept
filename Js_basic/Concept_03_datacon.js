@@ -1,17 +1,13 @@
-//number to string basic,advaced
-let numb="12ab"
-// console.log(typeof numb)
-let s1=Number(numb)
-// console.log(typeof s1)
+// type cpnversion = number | string | boolean
+// let str = "123abc"
+// let num = Number(str);
+// console.log(typeof num)
+// console.log(num);
+ 
 
-// console.log(s1)
-//NaN = TYPE SHOW US THE NUMBER BUT THIS NOT A NUMBER
 
-let a=null
-// console.log(typeof a)
-let b =Number(a)
-// console.log(typeof b)
-// console.log(b)
+
+
 
 
 //Operation//
